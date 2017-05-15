@@ -32,8 +32,8 @@ input[type="text"]{
 
 button{
     padding: 20px;
-    width: 30%;
-    float: left;
+    width: 20%;
+    float: right;
     background: #23282e;
     border: 0;
     box-sizing: border-box;
